@@ -4,7 +4,7 @@ Autores:
 Joelinton Siqueira (sistema de login)
 Saymon Kerlon Basso Magrini (sistema da lista de tarefas)
 
-# instruções de uso
+# instruções de usos
 
 - Executar o comando `composer install` para instalar as dependências do projeto.
 
