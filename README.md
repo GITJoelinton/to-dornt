@@ -38,4 +38,4 @@ Acesse: localhost:8001/auth/create
 6. Service (ProductService > CategoryService)
 7. Views (duplicar - views/admin/products > categories)
 8. Controller (views)
-9. Views (alterar)
+9. Views (alterar
